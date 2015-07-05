@@ -1,0 +1,23 @@
+{
+  "name": "raf-scroll-to",
+  "version": "0.0.1",
+  "description": "Smooth scroll to elements with quadratic in-out easing and requestAnimationFrame",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webyak/raf-scroll-to.git"
+  },
+  "keywords": [
+    "smooth",
+    "scroll-to",
+    "requestAnimationFrame"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webyak/raf-scroll-to/issues"
+  },
+  "homepage": "https://github.com/webyak/raf-scroll-to",
+  "dependencies": {
+    "raf": "^3.0.0"
+  }
+}
